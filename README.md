@@ -1,2 +1,2 @@
 # blog
-Personal blog in Django, Python3
+Personal blog in Django, Bootstrap, Jinga templating
